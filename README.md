@@ -1,6 +1,13 @@
 # Hi there, I'm Manas Ranjan Singh👋
 
-🎓M.Tech in VLSI Design & Embedded Systems | Passionate About Digital Design, Verilog/VHDL, FPGA & Embedded Tech | Aspiring SoC/FPGA Engineer
+<h1 align="center">Hi 👋, I'm Manas Ranjan Singh</h1>
+<h3 align="center">Aspiring VLSI Design Engineer | RTL Design | Functional Verification | Semiconductor Enthusiast</h3>
+
+<p align="center">
+🎓 M.Tech in VLSI Design & Embedded Systems <br>
+🎓 B.Tech in Electronics & Communication Engineering <br>
+📍 Bhubaneswar, Odisha, India
+</p>
 
 ## About Me
 I am Manas Ranjan Singh, currently pursuing my M.Tech in VLSI Design and Embedded Systems. With a solid foundation in Electronics and Communication Engineering and growing expertise in digital systems, I am passionate about building efficient, real-time embedded solutions and advanced VLSI architectures.
